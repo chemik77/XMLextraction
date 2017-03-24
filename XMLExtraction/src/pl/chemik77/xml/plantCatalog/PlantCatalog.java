@@ -1,4 +1,4 @@
-package pl.chemik77.xml;
+package pl.chemik77.xml.plantCatalog;
 
 import java.io.File;
 import java.io.IOException;
